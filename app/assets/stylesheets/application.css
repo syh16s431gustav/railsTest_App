@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+}
+h1{
+	margin-bottom: 2.5%;
+}
+hr{
+	margin-top: 1.5%;
+	margin-bottom: 1.5%;
+}
+ul{
+    list-style:none;
+}
+.hoverh2, .hoverh3{
+		transition: all 500ms;
+}
+.hoverh2:hover{
+	color: black;
+	font-size:28px;
+}
+.hoverh3:hover{
+	color: black;
+	font-size:22px;
+}
+.addImage{
+	padding-left: 2.5cm;
+}
